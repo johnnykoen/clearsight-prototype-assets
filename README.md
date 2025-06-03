@@ -1,0 +1,1 @@
+# clearsight-prototype-assets
